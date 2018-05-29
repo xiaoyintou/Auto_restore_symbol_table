@@ -1,0 +1,1 @@
+# Auto_restore_symbol_table
